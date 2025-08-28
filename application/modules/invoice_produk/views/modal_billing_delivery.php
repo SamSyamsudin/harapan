@@ -280,4 +280,4 @@ $tipe_billing = $results['tipe_billing'];
 										</td>
 
 									</tr>
-                                </table> 
+                                </table>
